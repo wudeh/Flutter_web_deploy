@@ -1,1 +1,1 @@
-var s="/assets/comment.1134e76c.svg";export{s as _};
+var e="/Flutter_web_deploy/assets/comment.1134e76c.svg";export{e as _};

@@ -1,4 +1,4 @@
-var Wt="/Flutter_web_deploy/assets/download.9d55dd6b.svg";/*!
+var Wt="/assets/download.9d55dd6b.svg";/*!
  * better-scroll / core
  * (c) 2016-2023 ustbhuangyi
  * Released under the MIT License.
